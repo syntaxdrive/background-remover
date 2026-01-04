@@ -1,0 +1,5 @@
+{
+  "name": "Fast Background AI",
+  "description": "Fast AI background removal and replacement tool using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
